@@ -1,6 +1,5 @@
-# ComponenteBoton
+# ComponenteBoton Funcionamiento
 Boton generador de pdf a traves de un archivo csv
-#Documentacion De Las clases y metodos 
 -Método crearGenerarPDFAction()de la claseComponentePDF
 Este método crea y devuelve una acción ( Action) que permite seleccionar un archivo CSV, una imagen para un logo y un archivo PDF de destino, generando el PDF con los archivos seleccionados.
 
